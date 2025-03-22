@@ -1,4 +1,4 @@
-                                                                  # Web-dev-mini-projects
+                                                           # Web-dev-mini-projects
 <p align="center" > The repository contains a list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! </p>
 <h1 align="center"> Web-dev-mini-projects </h1> 
 <div align="center">
