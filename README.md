@@ -1,5 +1,5 @@
-# Web-dev-mini-projects
-The repository contains a list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!
+                                                                  # Web-dev-mini-projects
+<p align="center" > The repository contains a list of awesome✨ &amp; cool web development beginner-friendly✌️ projects! </p>
 <h1 align="center"> Web-dev-mini-projects </h1> 
 <div align="center">
 <a href="https://github.com/topics/html"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge"/></a>
