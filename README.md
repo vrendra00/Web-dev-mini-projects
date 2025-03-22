@@ -1,7 +1,6 @@
 # Web-dev-mini-projects
-The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!
-<h1 align="center">Web-dev-mini-projects</h1> 
-inthe 
+The repository contains a list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!
+<h1 align="center"> Web-dev-mini-projects </h1> 
 <div align="center">
 <a href="https://github.com/topics/html"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge"/></a>
 <a href="https://github.com/topics/css"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?&style=for-the-badge"/></a>
@@ -27,12 +26,12 @@ inthe
 </div>
 <div align="center">
   
-# ADD ANY WEB DEVELOPMENT MINI PROJECT !
+# ADD ANY WEB DEVELOPMENT MINI PROJECT!
 
 </div>
 <br>
 
-## HOW TO CONTRIBUTE ? 👷 
+## HOW TO CONTRIBUTE? 👷 
 
 **1.** Fork [this](https://github.com/Ayushparikh-code/Web-dev-mini-projects) repository.
 
@@ -48,10 +47,10 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects
 cd Web-dev-mini-projects
 ```
 
-**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE web-dev-mini-projects & Add your project files (eg: index.html ,style.css, script.js) inside that folder
+**4.**  MAKE A NEW FOLDER WITH YOUR PROJECT NAME INSIDE web-dev-mini-projects & Add your project files (eg: index.html,style.css, script.js) inside that folder
 <br>
 
-**5.**  Also Add a README file in your project folder which consists of Description/screenshots about your project !
+**5.**  Add a README file in your project folder with a description/screenshots of your project!
           
  
 <br>
@@ -65,7 +64,7 @@ git checkout -b <your_branch_name>
 **7.** Add & Commit your changes.
 
 ```terminal
-  git add .
+  git add.
   git commit -m "<your_commit_message>"
 ```
 
@@ -111,7 +110,7 @@ git push -u origin <your_branch_name>
 ## 📌 Opensource Programs
 
 
-### This project is a part of following Open Source Program
+### This project is a part of the following Open Source Program
 
 <table style="width:80%;background-color:white;border-radius:30px;">
     <tr>
